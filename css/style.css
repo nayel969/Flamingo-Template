@@ -204,7 +204,7 @@ header {
 
 @media (max-width: 480px) {
   .nav__link {
-    font-size: 14px !important;
+    font-size: 13px !important;
   }
 }
 
